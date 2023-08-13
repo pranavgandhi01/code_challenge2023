@@ -33,5 +33,3 @@ Here's how the logic works step by step:
 8. Finally, the maximum value in the `dp` array represents the maximum score that can be obtained by choosing an optimally balanced subsequence.
 
 9. Return the maximum value in the `dp` array as the output.
-
-The dynamic programming approach allows the algorithm to efficiently compute the maximum score for a balanced subsequence by building up the solution incrementally, considering all possible previous days' scores to determine the optimal choice at each step. This leads to the correct and optimal solution for the problem.
